@@ -17,3 +17,4 @@ evaluation/test_filelists/lr*.txt
 checkpoints/
 results/
 temp/
+data/min_pre/
