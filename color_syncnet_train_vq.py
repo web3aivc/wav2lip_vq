@@ -34,8 +34,6 @@ syncnet_mel_step_size = 16
 img_size = 256
 device = torch.device("cuda" if use_cuda else "cpu")
 config_path = './data/vqgan-project.yaml'
-
-
 # ckpt_path = 'xxx/taming-transformers/logs/xxx/checkpoints/last.ckpt'
 
 
